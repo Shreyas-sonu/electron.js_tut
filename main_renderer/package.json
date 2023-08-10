@@ -1,0 +1,23 @@
+{
+  "name": "electron_tut",
+  "version": "1.0.0",
+  "description": "electro js tutorials",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas-sonu/electron_tut.git"
+  },
+  "author": "shreyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyas-sonu/electron_tut/issues"
+  },
+  "homepage": "https://github.com/Shreyas-sonu/electron_tut#readme",
+  "dependencies": {
+    "electron": "^25.4.0"
+  }
+}
